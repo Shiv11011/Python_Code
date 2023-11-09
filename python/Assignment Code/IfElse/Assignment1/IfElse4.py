@@ -1,3 +1,4 @@
+#Program to check given number is divisible by 5 or not
 num= int(input("Enter the number :"))
 if num % 5 ==0:
 	print("{} is divisible by 5".format(num))
