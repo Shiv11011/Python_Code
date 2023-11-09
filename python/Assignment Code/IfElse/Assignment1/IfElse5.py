@@ -1,3 +1,4 @@
+#Program to show the day of week w.r.t number assigned
 num= int(input("Enter number: "))
 
 if num == 1:
