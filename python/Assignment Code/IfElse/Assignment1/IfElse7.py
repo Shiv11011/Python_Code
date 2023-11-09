@@ -1,3 +1,4 @@
+#Program to get month and no of days in it w.r.t number assigned
 month= int(input("Enter month :"))
 
 if month == 1:
