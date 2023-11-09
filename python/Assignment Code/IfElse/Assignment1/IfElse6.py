@@ -1,3 +1,4 @@
+#Program to check Entered number is alphabet or not
 char = input("Enter a character: ")
 
 if len(char) == 1 and ('a' <= char <= 'z' or 'A' <= char <= '2'): 
